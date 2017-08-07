@@ -2,6 +2,9 @@
     text-align: right;
     list-style: none;
 
+
+
+
 }
 
 .alert-info hidden-on-mobile {
@@ -16,10 +19,12 @@
 
 }
 .sub-section {
-   text-align: right;
+  float: left;
 
 }
+
  #main {
+     float: left;
 
  }
 
