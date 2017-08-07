@@ -1,4 +1,6 @@
- .nav-links {
+
+
+.nav-links {
     text-align: right;
     list-style: none;
 
@@ -19,19 +21,34 @@
 
 }
 .sub-section {
-  float: left;
+    width: 30%;
+    height: 10%;
+    right: 0;
+    margin: 0px;
+    float: right;
 
 }
 
  #main {
-     float: left;
+
 
  }
 
  .main {
+     width: 70%;
+     height:10%;
+     left: 0;
+     float: left;
+
 
  }
 
  .header-img {
 
  }
+
+ footer {
+     clear: both;
+     bottom: 0px;
+ }
+
