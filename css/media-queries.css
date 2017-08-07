@@ -1,6 +1,5 @@
 body{
 
-    width: 50%;
 }
 
 .nav-links {
@@ -21,8 +20,8 @@ h1{
 }
 
 .header-img {
-    max-width: 50%;
-    margin: 0;
+    width: 10%;
+
 
 }
 
@@ -49,10 +48,6 @@ h1{
      left: 0;
      float: left;
 
-
- }
-
- .header-img {
 
  }
 
