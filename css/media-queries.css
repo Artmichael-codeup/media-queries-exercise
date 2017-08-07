@@ -1,6 +1,6 @@
  .nav-links {
     text-align: right;
-    direction: inherit;
+    list-style: none;
 
 }
 
@@ -11,3 +11,22 @@
 .header-img {
 
 }
+
+#social-media-links {
+
+}
+.sub-section {
+   text-align: right;
+
+}
+ #main {
+
+ }
+
+ .main {
+
+ }
+
+ .header-img {
+
+ }
