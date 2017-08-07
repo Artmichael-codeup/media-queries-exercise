@@ -1,19 +1,28 @@
+body{
 
+    width: 50%;
+}
 
 .nav-links {
     text-align: right;
     list-style: none;
 
-
-
-
+}
+h1{
+    font-size: 50px;
 }
 
 .alert-info hidden-on-mobile {
 
 }
+.nav-links li{
+    display: inline-block;
+    padding-right: 10px;
+}
 
 .header-img {
+    max-width: 50%;
+    margin: 0;
 
 }
 
