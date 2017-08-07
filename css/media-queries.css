@@ -1,5 +1,7 @@
-ul nav-links {
-   list-style-type:none;
+ .nav-links {
+    text-align: right;
+    direction: inherit;
+
 }
 
 .alert-info hidden-on-mobile {
