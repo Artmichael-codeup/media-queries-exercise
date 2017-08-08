@@ -21,8 +21,6 @@ h1{
 
 .header-img {
     background-image: url("http://lorempixel.com/g/900/400");
-
-
 }
 
 #social-media-links {
@@ -39,7 +37,6 @@ h1{
 
 
  .main {
-     
      width: 50%;
      height:10%;
      left: 0;
@@ -53,4 +50,11 @@ h1{
      clear: both;
      bottom: 0px;
  }
+@media screen and (max-width:768px){
+    .main{
+        width: 100%;
+    }
+
+}
+
 
