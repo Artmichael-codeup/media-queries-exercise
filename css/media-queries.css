@@ -52,12 +52,14 @@ h1{
 
     .nav-links li {
 
-        width: 1000px;
-        border: 1px solid black;
-
+        width: 968px;
+        border: 10px solid white;
+        text-align: center;
         padding-bottom: 10px;
+        padding-left: 130px;
         background-color: gray;
-        padding-right: none;
+
+
     }
 
 
@@ -74,7 +76,7 @@ h1{
     }
 
     .alert-info {
-        border: 1px solid black;
+        border: 1px solid gray;
         text-align: center;
         background-color: deepskyblue;
 
