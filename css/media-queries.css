@@ -47,5 +47,9 @@ h1{
      clear: both;
      bottom: 0px;
  }
+@media screen and (max-width:768px){
+    .main{
+        width: 100%;
+    }
 
- test
+}
