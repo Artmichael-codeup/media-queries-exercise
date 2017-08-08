@@ -1,6 +1,10 @@
-body{
-
-}
+/*html,*/
+/*body {*/
+    /*margin:0;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*box-sizing: border-box;*/
+/*}*/
 
 .nav-links {
     text-align: right;
@@ -89,5 +93,6 @@ h1{
     /*body {*/
         /*margin: 0 auto;*/
         /*padding: 0;*/
-    }
 }
+
+test
