@@ -29,7 +29,6 @@ h1{
     width: 40%;
     height: 20%;
     right: 20px;
-    margin: 0px;
     float: right;
 
 }
@@ -45,7 +44,6 @@ h1{
 
  footer {
      clear: both;
-     bottom: 0px;
  }
 @media screen and (min-width:320px){
     .main{
@@ -56,9 +54,10 @@ h1{
 
         width: 1000px;
         border: 1px solid black;
-        display: block;
+
         padding-bottom: 10px;
         background-color: gray;
+        padding-right: none;
     }
 
 
@@ -73,6 +72,14 @@ h1{
     h1 {
         text-align: center;
     }
+
+    .alert-info {
+        border: 1px solid black;
+        text-align: center;
+        background-color: deepskyblue;
+
+    }
+
 
 
 
