@@ -11,9 +11,6 @@ h1{
     font-size: 50px;
 }
 
-.alert-info hidden-on-mobile {
-
-}
 .nav-links li{
     display: inline-block;
     padding-right: 10px;
@@ -21,6 +18,8 @@ h1{
 
 .header-img {
     background-image: url("http://lorempixel.com/g/900/400");
+
+
 }
 
 #social-media-links {
@@ -37,24 +36,14 @@ h1{
 
 
  .main {
+     
      width: 50%;
      height:10%;
      left: 0;
      float: left;
  }
-.alert-info hidden-on-mobile{
-    bottom: 0;
-    left: 0;
-}
+
  footer {
      clear: both;
      bottom: 0px;
  }
-@media screen and (max-width:768px){
-    .main{
-        width: 100%;
-    }
-
-}
-
-
