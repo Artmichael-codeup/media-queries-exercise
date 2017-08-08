@@ -1,6 +1,10 @@
-body{
-
-}
+/*html,*/
+/*body {*/
+/*margin:0;*/
+/*height: 100%;*/
+/*width: 100%;*/
+/*box-sizing: border-box;*/
+/*}*/
 
 .nav-links {
     text-align: right;
@@ -34,17 +38,17 @@ h1{
 }
 
 
- .main {
-     
-     width: 50%;
-     height:10%;
-     left: 0;
-     float: left;
- }
+.main {
 
- footer {
-     clear: both;
- }
+    width: 50%;
+    height:10%;
+    left: 0;
+    float: left;
+}
+
+footer {
+    clear: both;
+}
 @media screen and (max-width:400px){
 
     .nav-links li {
@@ -87,7 +91,7 @@ h1{
     }
 
     /*body {*/
-        /*margin: 0 auto;*/
-        /*padding: 0;*/
-    }
-test 2
+    /*margin: 0 auto;*/
+    /*padding: 0;*/
+}
+retest
